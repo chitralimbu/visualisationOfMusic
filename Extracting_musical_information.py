@@ -3,7 +3,7 @@ import random
 import re
 import math
 def read_mxl():
-	mxl_file = converter.parse(r'C:\Users\Niku\Dropbox\\University\final_year_projet\The_legend_of_korra.mxl')
+	mxl_file = converter.parse(r'C:\Users\limbu\Documents\VisualisationOfMusic\Purple_Rain-Prince.mxl')
 	#mxl_file.show('text')
 	return mxl_file
 
